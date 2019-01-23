@@ -1,0 +1,47 @@
+body{
+	
+	background:deepskyblue;
+	background: linear-gradient(deepskyblue, turquoise);
+	height:710px;
+
+}
+div{
+text-align: center;	
+}
+#hello
+{
+	color: orange;
+	font-size: 50px;
+	font-style: normal;
+	font-family: Snell Roundhand, cursive;
+
+}
+p
+{
+	 font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+
+#photo
+{
+	height: 400px;
+	width: 400px;
+	
+}
+a
+{
+	background-color: RoyalBlue;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+a:hover{
+    background-color: blue;
+  }
